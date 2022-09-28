@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,QACE,gBAAiB,CAClB,WAGC,iBAAkB,CACnB,OAGC,sBAAuB","file":"main.b0356dd2.chunk.css","sourcesContent":[".button {\n  margin-left: 15px;\n}\n\n.is-danger {\n  margin-right: 15px;\n}\n\n.clear {\n  background-color: brown;\n}\n"]}
